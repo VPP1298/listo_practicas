@@ -11,3 +11,4 @@
 - Atajos de teclado: mira ATAJOS.md
 - `git push --force`: la mejor forma de subir cambios
 - `git push --force`: la mejor forma de subir cambios
+- `git push --force`: la mejor forma de subir cambios
